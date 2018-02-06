@@ -2,14 +2,10 @@
 
 This is a big game player playing solitaire game, need in the shortest possible time, in accordance with the rules will be covered all the cards from the bottom to turn on one layer, and will comply with the rules of the card moves into the bottom of the card. Come on! Get rid of the cards!
 
-![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire
-/raw/master/IMG_0766.PNG)
-![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire
-/raw/master/IMG_0767.PNG)
-![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire
-/raw/master/IMG_0768.PNG)
-![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire
-/raw/master/IMG_0769.PNG)
+![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire/raw/master/IMG_0766.PNG)
+![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire/raw/master/IMG_0767.PNG)
+![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire/raw/master/IMG_0768.PNG)
+![image](https://github.com/DevialMayCry/Challenge-Tripeaks-Solitaire/raw/master/IMG_0769.PNG)
 
 
 Framework
